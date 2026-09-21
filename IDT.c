@@ -1,0 +1,1 @@
+set_idt_gate(33, (uint64_t)irq_wrapper_1);
